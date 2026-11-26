@@ -10,3 +10,4 @@ HelpPath=Help
 ProgramPath=Programs
 FileList=Data\Filelist.cfg
 Description=FutbolWebApp
+ConnectionIni=Data\DFConnId.ini

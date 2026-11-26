@@ -2,6 +2,17 @@
 <DataDictionaryList xmlns="http://www.dataaccess.com/VisualDataFlex/2008/DataDictionaryList/">
 	<Tables>
 		<Table>
+			<tableNumber>4</tableNumber>
+			<tableName>liga</tableName>
+			<DDClasses>
+				<DDClass>
+					<className>cligaDataDictionary</className>
+					<classFile>cligaDataDictionary.dd</classFile>
+					<preferred>true</preferred>
+				</DDClass>
+			</DDClasses>
+		</Table>
+		<Table>
 			<tableNumber>263</tableNumber>
 			<tableName>WebAppSession</tableName>
 			<DDClasses>
