@@ -1,2 +1,8 @@
 FutbolWebApp/Data/DFConnId.ini
 *.log
+*.exe
+*.dbg
+*.prn
+*.dep
+*.cch
+*.manifest
